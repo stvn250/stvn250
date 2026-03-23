@@ -21,4 +21,19 @@
     alt="csharp"
     src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
   /> 
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="python"
+    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+  /> 
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="C"
+    src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+  /> 
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="java"
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+  /> 
 </p>
