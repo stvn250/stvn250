@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**stvn250/stvn250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi, I'm Steven</h1>  
+<p>A Fullstack Web developer from Germany</p>  
+<p>  
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="html5"
+    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+  />
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="css3"
+    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+  />
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="git"
+    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+  />
+   <img 
+    style="width: 50px; height: 50px" 
+    alt="csharp"
+    src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
+  /> 
+</p>
