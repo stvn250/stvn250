@@ -36,4 +36,21 @@
     alt="java"
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
   /> 
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="java"
+    src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"
+  />
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="java"
+    src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg"
+  />
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="linux"
+    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+  />
+  
+  
 </p>
